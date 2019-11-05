@@ -473,6 +473,14 @@ a{
 }
 
 }
-
+@media (max-width:320px){
+      .footer-logo{
+		  margin-top: 20px;
+	  }
+	  .footer-logo img{
+		  width:35%;
+	  }
+   
+}
 
 

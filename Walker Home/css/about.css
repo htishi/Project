@@ -700,7 +700,7 @@ a {
 	position: relative;
 	top:0px;
 	left:0;
-	padding-bottom: 40px;
+	padding-bottom: 20px;
 	margin:auto;
 	padding-top: 40px;
 }
@@ -753,7 +753,7 @@ a {
 	}
 
 	.honuo ul li {
-		margin-bottom: 30px;
+		margin-bottom: 20px;
 		width: 47%;
 		height: auto;
 		margin-right: 3%;
@@ -762,12 +762,12 @@ a {
 
 	.honuo ul li:nth-child(2) {
 
-		margin-bottom: 90px;
+		margin-bottom: 44px;
 
 	}
 
 	.honuo ul li:nth-child(4) {
-		margin-bottom: 90px;
+		margin-bottom: 44px;
 
 	}
 }
